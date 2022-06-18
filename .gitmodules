@@ -1,0 +1,3 @@
+[submodule "modified_flappy_bird_gym"]
+	path = modified_flappy_bird_gym
+	url = https://github.com/rongjin98/flappy_bird_qlearn.git
